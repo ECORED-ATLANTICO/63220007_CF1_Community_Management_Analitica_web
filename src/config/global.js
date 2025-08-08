@@ -44,13 +44,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Ecosistema digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Redes sociales',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Audiencias',
+            hash: 't_1_2',
           },
         ],
       },
@@ -58,14 +63,115 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Plan de redes sociales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Elementos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Características',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Estructura',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Estrategias de contenido',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Tipos',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Componentes',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Adaptabilidad',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Viralidad',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Automatización',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Inteligencia artificial',
+            hash: 't_3_6',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Publicación y <em>engagement</em>',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Interacción',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Principios',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Fomento',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Medición de participación',
+            hash: 't_5_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Confidencialidad de la información',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Normatividad',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Privacidad de datos',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Ética en el manejo de la información',
+            hash: 't_6_3',
+          },
+        ],
       },
     ],
     subMenu: [

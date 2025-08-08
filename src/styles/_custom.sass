@@ -79,10 +79,44 @@
   align-self: flex-end
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: $color-sistema-texto !important
 
 .banner-interno__titulo__icono i
-  color: $color-primario
+  color: $white
   
+.banner-interno__fondo 
+  background-image: url('../assets/curso/portada/banner-interno.png') !important
+
 figcaption
   font-weight: normal
+
+.bg-color-terciario-t5
+  background-color: $color-terciario-t5
+
+.fullwidth-bg
+  position: relative
+  z-index: 0
+
+  &--2::after
+    top: 100px
+    left: -60px
+    position: absolute
+    height: 1000px
+    width: 1440px
+    background: #FFFFFF
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.53) 0%, rgba(238, 250, 243, 0.5) 20%, rgba(238, 250, 243, 0.5) 80%, rgba(255, 255, 255, 0.62) 100%)
+    content: ''
+
+  &--3::after
+    top: 0
+    left: -60px
+    position: absolute
+    height: 440px
+    width: 1440px
+    background: #FFFFFF
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.53) 0%, rgba(238, 250, 243, 0.5) 20%, rgba(238, 250, 243, 0.5) 80%, rgba(255, 255, 255, 0.62) 100%)
+    content: ''
+
+.z-2
+  z-index: 2
+  position: relative
