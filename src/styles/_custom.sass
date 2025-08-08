@@ -2,13 +2,33 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 15%
+    left: 7%
+    width: 50px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
+    top: 64%
+    left: -5%
+    width: 64px
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 10%
+    right: 45%
+    width: 84px
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 19%
+    width: 70px
+  &-5
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
     top: 51%
-    right: 30%
+    right: 20%
+    width: 80px
 
 @keyframes float1
   0%
@@ -18,15 +38,51 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
+  background-image: url('../assets/curso/portada/fondo-banner-principal-mobile.png') !important
+
+@media (min-width: 440px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
+    padding-right: 130px
+
+@media (min-width: 768px)
+  .banner-principal .tarjeta
+    padding-right: 0
+    overflow: hidden
+
+  .banner-principal__info
+    padding-right: 85px !important
+
+@media (min-width: 1024px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal.png') !important
+
+  .banner-principal__info
+    padding-right: unset !important
+
+@media (max-width: 440px)
+  .banner-principal__descripcion
+    margin-bottom: 30px
+    padding-right: 60px
+  .banner-principal__accion
+    margin-top: 30px
+    margin-bottom: 80px
+  .banner-principal__componente
+    padding-top: 40px
+    padding-right: 40px
+    margin-bottom: 40px
 
 .banner-principal__row .banner-principal__img
   width: 400px !important  
+  padding-bottom: 0 !important
+  padding-top: 0 !important
+  align-self: flex-end
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
-
+  
 figcaption
   font-weight: normal
