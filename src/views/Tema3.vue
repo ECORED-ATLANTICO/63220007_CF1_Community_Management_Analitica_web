@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Ecosistema digital
+      h1 Estrategias de contenido
 
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema3/1.png", alt="Imagen decorativa")
 
@@ -20,7 +20,7 @@
 
     .row.justify-content-center.align-items-center.z-2.bg-color-secundario-s5.p-3.p-xl-1.rounded-4
       .col-xl-9
-        p.mb-0 Existen diversas estrategias de contenido según el objetivo y la plataforma, algunas de las que podemos encontrar son las de tipo informativo quienes son publicaciones que educan y aportan conocimiento, como blogs, infografías y guías, las de entretenimiento donde se publican memes, videos virales y storytelling que captan la atención y generan interacción, las de tipo promocional donde encontramos las campañas publicitarias, lanzamientos de productos y descuentos, las de contenido interactivo donde encontramos encuestas, dinámicas y preguntas que fomentan la participación del público, y las de tipo inspiracional, con contenido de frases motivacionales, testimonios y casos de éxito que generan conexión emocional.
+        p.mb-0 Existen diversas estrategias de contenido según el objetivo y la plataforma, algunas de las que podemos encontrar son las de tipo informativo quienes son publicaciones que educan y aportan conocimiento, como blogs, infografías y guías, las de entretenimiento donde se publican memes, videos virales y <em>storytelling</em> que captan la atención y generan interacción, las de tipo promocional donde encontramos las campañas publicitarias, lanzamientos de productos y descuentos, las de contenido interactivo donde encontramos encuestas, dinámicas y preguntas que fomentan la participación del público, y las de tipo inspiracional, con contenido de frases motivacionales, testimonios y casos de éxito que generan conexión emocional.
       .col-xl-3.d-none.d-xl-block
         img(src="@/assets/curso/temas/tema3/2.png", alt="Imagen decorativa")
 
@@ -40,42 +40,42 @@
         SlyderF(columnas="col-lg-6 my-2 drop-shadow")
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema3/4.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema3/4.png' alt='Icon decarativo')
             h5.mb-4.text-center Objetivo
-            p.text-center ¿Qué se busca lograr? Posicionamiento, engagement, conversión, entre otros.
+            p.text-center ¿Qué se busca lograr? Posicionamiento, <em>engagement</em>, conversión, entre otros.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema3/5.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema3/5.png' alt='Icon decarativo')
             h5.mb-4.text-center Audiencia
             p.text-center Conocer quién consumirá el contenido y qué le interesa.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema3/6.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema3/6.png' alt='Icon decarativo')
             h5.mb-4.text-center Formato
             p.text-center Videos, imágenes, texto o una combinación de estos.
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema3/7.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema3/7.png' alt='Icon decarativo')
             h5.mb-4.text-center Frecuencia
             p.text-center Definir cada cuánto se publicará el contenido.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema3/8.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema3/8.png' alt='Icon decarativo')
             h5.mb-4.text-center Tono y estilo
             p.text-center Adaptar el lenguaje según la marca y el público.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema3/9.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema3/9.png' alt='Icon decarativo')
             h5.mb-4.text-center Medición
             p.text-center Evaluar el rendimiento con métricas y ajustes estratégicos.
 
@@ -92,8 +92,8 @@
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 3.
           span Acciones de adaptabilidad
-        img.d-md-none.mb-3(data-aos="fade-up")(src="@/assets/curso/temas/tema3/10-mobile.png", alt="Escuchar a las audiencias. Analizar comentarios y métricas para mejorar. Diversificar formatos. Explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente. Seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas. Cada red social tiene su propio estilo y formato ideal.")
-        img.d-none.d-md-block(data-aos="fade-up")(src="@/assets/curso/temas/tema3/10.png", alt="Escuchar a las audiencias. Analizar comentarios y métricas para mejorar. Diversificar formatos. Explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente. Seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas. Cada red social tiene su propio estilo y formato ideal.")
+        img.d-md-none.mb-3(data-aos="fade-up")(src="@/assets/curso/temas/tema3/10-mobile.png", alt="En la figura se enuncian las acciones a tener en cuenta para la adaptabilidad de contenidos. Escuchar a las audiencias: analizar comentarios y métricas para mejorar. Diversificar formatos: explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente: seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas: cada red social tiene su propio estilo y formato ideal.")
+        img.d-none.d-md-block(data-aos="fade-up")(src="@/assets/curso/temas/tema3/10.png", alt="En la figura se enuncian las acciones a tener en cuenta para la adaptabilidad de contenidos. Escuchar a las audiencias: analizar comentarios y métricas para mejorar. Diversificar formatos: explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente: seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas: cada red social tiene su propio estilo y formato ideal.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
@@ -104,7 +104,7 @@
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-12.col-lg-8
-        p El contenido viral se basa en elementos que impulsan su rápida difusión, ya sea un video, imagen, meme o publicación se difunde rápida y masivamente entre los usuarios, alcanzando una gran audiencia en poco tiempo. Esto ocurre cuando las personas lo comparten de manera exponencial, impulsadas por factores como la creatividad, el impacto emocional, la relevancia del tema o el apoyo de influencers y comunidades digitales. 
+        p El contenido viral se basa en elementos que impulsan su rápida difusión, ya sea un video, imagen, meme o publicación se difunde rápida y masivamente entre los usuarios, alcanzando una gran audiencia en poco tiempo. Esto ocurre cuando las personas lo comparten de manera exponencial, impulsadas por factores como la creatividad, el impacto emocional, la relevancia del tema o el apoyo de <em>influencers</em> y comunidades digitales. 
         .bg-color-secundario-s5.p-3.px-4.rounded-4.mb-4.mb-lg-0
           p.mb-0 La viralidad puede generar enormes oportunidades para marcas, creadores de contenido y causas sociales, pero también implica desafíos, ya que la atención y repercusión pueden ser efímeras o incluso generar controversia,  algunas claves para lograrla incluye la emoción y conexión, donde el contenido genera impacto emocional en la audiencia, la facilidad de consumo, lo cual se crea con mensajes breves, visuales y con formatos atractivos, la relevancia al adaptar el contenido a temas actuales y tendencias del momento y la compartibilidad al incentivar a los usuarios a compartir y replicar el mensaje.
       .col-10.col-sm-8.col-lg-4
@@ -115,7 +115,7 @@
       .col-12.col-lg-6
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 4.
-          span Claves para la viralidad. 
+          span Claves para la viralidad
         img.mb-2(data-aos="fade-up")(src="@/assets/curso/temas/tema3/12.png", alt="Escuchar a las audiencias. Analizar comentarios y métricas para mejorar. Diversificar formatos. Explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente. Seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas. Cada red social tiene su propio estilo y formato ideal.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
     Separador
@@ -194,6 +194,19 @@
           .col-10.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/18.png', alt='imagen decorativa')
+        
+        .row.justify-content-center.align-items-center
+          .col-lg-7.mb-4.mb-lg-0
+            h5.mb-4 Automatización responsable y ética
+            p La automatización debe alinearse con principios éticos y normativos.
+            ul.checklist
+              li Cumplir regulaciones como el GDPR (Reglamento General de Protección de Datos).
+              li Evitar respuestas genéricas o despersonalizadas.
+              li Ser transparente sobre el uso de <em>bots</em> o IA.
+            p <strong>Ejemplo:</strong> Coca-Cola evalúa en tiempo real sus campañas automatizadas y ajusta su enfoque para maximizar el <em>engagement</em>.
+          .col-10.col-lg-4
+            figure
+              img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/19.png', alt='imagen decorativa')
 
     Separador
 
@@ -202,7 +215,7 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-12.col-lg-8
-        p.mb-0 La Inteligencia Artificial (IA) ha revolucionado la gestión de redes sociales al permitir procesos más eficientes, personalizados y predictivos. Gracias a herramientas impulsadas por IA, los community managers pueden automatizar tareas operativas, segmentar con mayor precisión y ofrecer experiencias adaptadas a los intereses del usuario.
+        p.mb-0 La Inteligencia Artificial (IA) ha revolucionado la gestión de redes sociales al permitir procesos más eficientes, personalizados y predictivos. Gracias a herramientas impulsadas por IA, los <em>community managers</em> pueden automatizar tareas operativas, segmentar con mayor precisión y ofrecer experiencias adaptadas a los intereses del usuario.
         p Su aplicación va más allá de la simple programación de contenidos: permite analizar grandes volúmenes de datos, anticipar tendencias y mejorar la calidad de la interacción con las audiencias. Sin embargo, su implementación debe ir acompañada de principios éticos que garanticen la transparencia, la privacidad y la equidad en el uso de la información. A continuación, se presenta cómo se aplican estas herramientas, sus beneficios directos y las consideraciones éticas que no deben pasarse por alto:
       .col-10.col-sm-8.col-lg-4
         figure
@@ -225,10 +238,10 @@
               tr
                 td(colspan="2") Automatización de publicaciones.
                 td(colspan="3") Ahorra tiempo y permite enfocar esfuerzos en tareas creativas.
-                td(colspan="3") Riesgo de interacción impersonal o deshumanizada
+                td(colspan="3") Riesgo de interacción impersonal o deshumanizada.
               tr(style="background-color: #DEE4F0;")
                 td(colspan="2") Recomendación de contenido personalizado. 
-                td(colspan="3") Aumenta la relevancia de las publicaciones y mejora el engagement.
+                td(colspan="3") Aumenta la relevancia de las publicaciones y mejora el <em>engagement</em>.
                 td(colspan="3") Preocupación por el uso excesivo de datos personales.
               tr
                 td(colspan="2") <em>Chatbots</em> y asistentes virtuales.

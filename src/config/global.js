@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Entorno digital del <em>community management</em>',
     Description:
-      'Este componente formativo permite al aprendiz comprender el uso estratégico de las redes sociales para conectar con audiencias específicas, segmentar públicos, estructurar planes de redes sociales y diseñar contenido que genere interacción, engagement y valor, fortaleciendo así las estrategias de marketing digital según objetivos definidos.',
+      'Este componente formativo permite al aprendiz comprender el uso estratégico de las redes sociales para conectar con audiencias específicas, segmentar públicos, estructurar planes de redes sociales y diseñar contenido que genere interacción, <em>engagement</em> y valor, fortaleciendo así las estrategias de <em>marketing</em> digital según objetivos definidos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -268,7 +268,7 @@ export default {
         'identidad de una marca, lo que la hace única y reconocible, representa todo lo que la marca transmite: su personalidad, su propósito, su forma de comunicar y hasta cómo hace sentir a las personas.',
     },
     {
-      termino: '<em>Engagement</em>>',
+      termino: '<em>Engagement</em>',
       significado:
         'nivel de compromiso, conexión e interacción que los consumidores y usuarios tienen con una marca.',
     },

@@ -28,42 +28,42 @@
         SlyderF(columnas="col-lg-6 my-2 drop-shadow")
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema4/4.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema4/4.png' alt='Icon decarativo')
             h5.mb-4.text-center Calendario de contenido
             p.text-center Planificar publicaciones según fechas clave, tendencias y objetivos estratégicos.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema4/5.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema4/5.png' alt='Icon decarativo')
             h5.mb-4.text-center Diversificación de formatos
             p.text-center Alternar imágenes, videos, textos, encuestas y transmisiones en vivo para mantener el interés.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema4/6.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema4/6.png' alt='Icon decarativo')
             h5.mb-4.text-center Uso de llamadas a la acción (CTA)
             p.text-center Incluir frases que motiven la participación, como “comenta tu opinión” o “comparte con tus amigos”.
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema4/7.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema4/7.png' alt='Icon decarativo')
             h5.mb-4.text-center Optimización del horario de publicación
             p.text-center Publicar en momentos donde la audiencia está más activa para mejorar el alcance.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema4/8.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema4/8.png' alt='Icon decarativo')
             h5.mb-4.text-center Interacción proactiva
             p.text-center Responder comentarios, agradecer interacciones y generar conversaciones para fortalecer la comunidad.
 
           .tarjeta.p-4.py-5.card-decoration.rounded-3
             .row.justify-content-center.mb-3
-              .col-4
-                img.mb-3(src='@/assets/curso/temas/tema4/9.png' alt='Icon decarativo')
+              .col-6
+                img.w-90.mb-3(src='@/assets/curso/temas/tema4/9.png' alt='Icon decarativo')
             h5.mb-4.text-center Colaboraciones estratégicas
             p.text-center Aliarse con <em>influencers</em> o marcas afines para ampliar el alcance y generar mayor <em>engagement</em>.
 

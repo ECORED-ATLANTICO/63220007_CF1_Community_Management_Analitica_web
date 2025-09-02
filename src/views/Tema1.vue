@@ -31,7 +31,12 @@
 
       .col-lg-9
         p.mb-4 Las redes sociales han revolucionado la forma en que las personas interactúan en el mundo digital. Estas plataformas permiten la conexión entre individuos, marcas y comunidades, facilitando la comunicación en tiempo real a través de distintos formatos como texto, imágenes, videos y transmisiones en vivo. Más que simples espacios de entretenimiento, las redes sociales han evolucionado para convertirse en herramientas esenciales de interacción y difusión de contenido a gran escala. Según Coiera (2013) las redes sociales son medios de comunicación, diferentes a los tradicionales, ya que utilizan un conjunto de tecnologías, con el fin de crear espacios virtuales para que los usuarios puedan interactuar entre sí.
-        p.bg-color-acento-contenido-a5.rounded-4.p-4 Las redes sociales, también conocidas como social media, Campoverde (2021) las identifica como un aliado estratégico de las empresas, para poder ser generadoras de ventas e ingresos, así mismo, son destacadas como las más importantes estrategias del marketing digital, por medio de las cuales se potencializa la publicidad, propiciando ganancias, tanto en micro, pequeñas y medianas empresas.
+        .row.align-items-center.bg-color-acento-contenido-a5.rounded-4.p-4
+          .col-xl-11
+            p.mb-0 Las redes sociales, también conocidas como social media, Campoverde (2021) las identifica como un aliado estratégico de las empresas, para poder ser generadoras de ventas e ingresos, así mismo, son destacadas como las más importantes estrategias del <em>marketing</em> digital, por medio de las cuales se potencializa la publicidad, propiciando ganancias, tanto en micro, pequeñas y medianas empresas.
+          .col-xl-1.d-none.d-xl-block.p-0
+            figure
+              img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.svg', alt='imagen decorativa')
 
     .row.justify-content-center.align-items-center.z-2.bg-gradiente.rounded-4.p-4.mb-4.mb-lg-5
       .col-lg-9
@@ -45,13 +50,13 @@
 
     h3.graph-title.my-5(data-aos="fade-right") Evolución
 
-    p.mb-4.mb-lg-5 Desde sus inicios las redes sociales han experimentado una transformación significativa posibilitando nuevas formas de comunicación digital (Opresmedia, 2023). Pasaron de ser sitios para compartir experiencias personales a espacios estratégicos donde empresas, creadores de contenido y organizaciones construyen presencia digital, desarrollan comunidades y generan impacto social. La evolución tecnológica ha permitido integrar algoritmos avanzados que optimizan el alcance del contenido, segmentan audiencias y potencian el engagement de manera más eficiente.
+    p.mb-4.mb-lg-5 Desde sus inicios las redes sociales han experimentado una transformación significativa posibilitando nuevas formas de comunicación digital (Opresmedia, 2023). Pasaron de ser sitios para compartir experiencias personales a espacios estratégicos donde empresas, creadores de contenido y organizaciones construyen presencia digital, desarrollan comunidades y generan impacto social. La evolución tecnológica ha permitido integrar algoritmos avanzados que optimizan el alcance del contenido, segmentan audiencias y potencian el <em>engagement</em> de manera más eficiente.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-12
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 1.
-          span Línea de tiempo de las redes sociales.
+          span Línea de tiempo de las redes sociales
         img.d-md-none(data-aos="fade-up")(src="@/assets/curso/temas/tema1/5-mobile.png", alt="En la figura se muestra una línea de tiempo de once momentos de las redes sociales desde 1996 hasta 2016.")
         img.d-none.d-md-block.mb-1(data-aos="fade-up")(src="@/assets/curso/temas/tema1/5.png", alt="En la figura se muestra una línea de tiempo de once momentos de las redes sociales desde 1996 hasta 2016.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
@@ -94,7 +99,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/9.png", alt="Imagen decorativa")
           .crd_hover_txt--body.text-center
-            h5.mb-3 Interactividad
+            h5.mb-3 Segmentación
             p.mb-0 Permiten la comunicación bidireccional entre usuarios y marcas, facilitando la participación y el intercambio de información.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
@@ -111,13 +116,13 @@
       .col-xl-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-conservas")
           div(titulo="Personalización")
-            p Adaptan la experiencia del usuario mediante algoritmos que muestran contenido relevante según sus preferencias y comportamiento.
+            p.ms-5.ps-2 Adaptan la experiencia del usuario mediante algoritmos que muestran contenido relevante según sus preferencias y comportamiento.
 
           div(titulo="Medición y análisis")
-            p Proporcionan métricas detalladas sobre el rendimiento de publicaciones, interacción de usuarios y efectividad de campañas.
+            p.ms-5.ps-2 Proporcionan métricas detalladas sobre el rendimiento de publicaciones, interacción de usuarios y efectividad de campañas.
 
           div(titulo="Automatización")
-            p Facilitan la gestión de contenido y la programación de publicaciones para optimizar la presencia digital de una marca.
+            p.ms-5.ps-2 Facilitan la gestión de contenido y la programación de publicaciones para optimizar la presencia digital de una marca.
 
     h3(data-aos="fade-right").graph-title.my-5.z-2 Principales plataformas
 
@@ -137,7 +142,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Instagram
-            p Enfocada en contenido visual, es perfecta para compartir imágenes y videos. Su algoritmo favorece el engagement a través de historias, reels y publicaciones interactivas. Es clave para estrategias de branding y marketing de influencers.
+            p Enfocada en contenido visual, es perfecta para compartir imágenes y videos. Su algoritmo favorece el <em>engagement</em> a través de historias, reels y publicaciones interactivas. Es clave para estrategias de <em>branding</em> y <em>marketing</em> de <em>influencers</em>.
           .col-10.col-sm-8.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/13.png', alt='imagen decorativa')
@@ -153,7 +158,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 LinkedIn
-            p La red profesional por excelencia, ideal para networking, reclutamiento y generación de contenido corporativo. Su enfoque permite a empresas y profesionales compartir conocimientos y fortalecer su presencia en el ámbito laboral.
+            p La red profesional por excelencia, ideal para <em>networking</em>, reclutamiento y generación de contenido corporativo. Su enfoque permite a empresas y profesionales compartir conocimientos y fortalecer su presencia en el ámbito laboral.
           .col-10.col-sm-8.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/15.png', alt='imagen decorativa')   
@@ -161,7 +166,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 TikTok
-            p Centrada en videos cortos y contenido viral, es una de las plataformas con mayor crecimiento. Su algoritmo favorece la creatividad y el descubrimiento de contenido, siendo clave para estrategias de marketing digital dirigidas a audiencias jóvenes.
+            p Centrada en videos cortos y contenido viral, es una de las plataformas con mayor crecimiento. Su algoritmo favorece la creatividad y el descubrimiento de contenido, siendo clave para estrategias de <em>marketing</em> digital dirigidas a audiencias jóvenes.
           .col-10.col-sm-8.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/16.png', alt='imagen decorativa')
@@ -169,7 +174,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 YouTube
-            p La plataforma líder en contenido de video, utilizada tanto para entretenimiento como para educación y marketing. Su modelo de monetización y alcance global la convierten en una herramienta poderosa para creadores y marcas.
+            p La plataforma líder en contenido de video, utilizada tanto para entretenimiento como para educación y <em>marketing</em>. Su modelo de monetización y alcance global la convierten en una herramienta poderosa para creadores y marcas.
           .col-10.col-sm-8.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/17.png', alt='imagen decorativa')
@@ -194,14 +199,14 @@
               img.w-72(data-aos="fade-up")(src='@/assets/curso/temas/tema1/20.png', alt='imagen decorativa')
           .col-xl-10
             h5 Redes sociales horizontales.
-            p Enfocadas en conectar a usuarios de diversas edades y contextos, permitiendo la difusión masiva y la interacción generalizada. (Opresmedia, 2023)
+            p Enfocadas en conectar a usuarios de diversas edades y contextos, permitiendo la difusión masiva y la interacción generalizada. (Opresmedia, 2023).
         .row.p-4.bg-color-terciario-t5.rounded-4.align-items-center.shadow
           .col-2.d-none.d-xl-block
             figure
               img.w-72(data-aos="fade-up")(src='@/assets/curso/temas/tema1/20.png', alt='imagen decorativa')
           .col-xl-10
             h5 Redes sociales verticales.
-            p Especializadas en nichos específicos; por ejemplo, LinkedIn se centra en el ámbito profesional y Pinterest en intereses visuales y creativos. (Lara, 2023)
+            p Especializadas en nichos específicos; por ejemplo, LinkedIn se centra en el ámbito profesional y Pinterest en intereses visuales y creativos. (Lara, 2023).
 
     Separador
 

@@ -51,7 +51,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema5/3.png', alt='imagen decorativa')
       .col-lg-8
-        p.mb-0 Fomentar la interacción en redes sociales no se trata solo de acumular comentarios y reacciones, sino de construir espacios de conversación genuinos. Cuando las marcas y creadores invitan a la participación con preguntas auténticas, responden con cercanía y generan contenido que conecta con las emociones de la audiencia, la interacción fluye de manera natural. Además, la constancia y la escucha activa fortalecen la comunidad, convirtiendo cada publicación en una oportunidad para compartir ideas, generar confianza y crear relaciones reales más allá de la pantalla. Al final, la clave está en recordar que detrás de cada like y comentario hay una persona con pensamientos, experiencias y ganas de ser parte de algo significativo. Algunas de las estrategias para aumentar la participación en redes sociales son:
+        p.mb-0 Fomentar la interacción en redes sociales no se trata solo de acumular comentarios y reacciones, sino de construir espacios de conversación genuinos. Cuando las marcas y creadores invitan a la participación con preguntas auténticas, responden con cercanía y generan contenido que conecta con las emociones de la audiencia, la interacción fluye de manera natural. Además, la constancia y la escucha activa fortalecen la comunidad, convirtiendo cada publicación en una oportunidad para compartir ideas, generar confianza y crear relaciones reales más allá de la pantalla. Al final, la clave está en recordar que detrás de cada <em>like</em> y comentario hay una persona con pensamientos, experiencias y ganas de ser parte de algo significativo. Algunas de las estrategias para aumentar la participación en redes sociales son:
 
     .row.align-items-center.justify-content-center.z-2.mb-4.mb-lg-5
       .col-lg-10
@@ -67,19 +67,19 @@
                 th(colspan="3") Descripción
             tbody
               tr
-                td Publicaciones interactivas
+                td Publicaciones interactivas.
                 td(colspan="3") Uso de encuestas, preguntas abiertas y dinámicas que inviten a comentar e interactuar.
               tr(style="background-color: #DEE4F0;")
-                td Respuestas personalizadas
+                td Respuestas personalizadas.
                 td(colspan="3") Responder comentarios con mensajes específicos en lugar de respuestas automáticas o genéricas.
               tr
-                td Colaboraciones
+                td Colaboraciones.
                 td(colspan="3") Establecer alianzas con creadores de contenido o marcas complementarias para potenciar la visibilidad y enriquecer la interacción con nuevas audiencias.
               tr(style="background-color: #DEE4F0;")
-                td <em>Hashtags</em> y tendencias
+                td <em>Hashtags</em> y tendencias.
                 td(colspan="3") Integrar palabras clave y temas del momento para mejorar la visibilidad y conexión con el público.
               tr
-                td Gamificación
+                td Gamificación.
                 td(colspan="3") Crear dinámicas con retos, premios y sistemas de participación que incentiven la interacción.
     
     Separador
@@ -89,7 +89,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-8
-        p.mb-4.mb-lg-0 Medir la participación en redes sociales es una oportunidad para descubrir qué inspira, emociona y conecta con la audiencia. Más allá de los “likes” o comentarios, se trata de comprender cómo las personas interactúan con el contenido, qué conversaciones nacen y qué valor se genera en cada publicación. Al observar métricas como el tiempo de visualización, la cantidad de respuestas o los contenidos compartidos, es posible identificar lo que realmente resuena y fortalece el vínculo con la comunidad. Lo más valioso no siempre está en la cantidad, sino en la calidad de las interacciones: cuando una publicación despierta diálogo, moviliza o deja huella, su impacto se multiplica. Medir la participación, entonces, es aprender en tiempo real, adaptarse con empatía y construir relaciones genuinas en el mundo digital, de acuerdo con:
+        p.mb-4.mb-lg-0 Medir la participación en redes sociales es una oportunidad para descubrir qué inspira, emociona y conecta con la audiencia. Más allá de los “<em>likes</em>” o comentarios, se trata de comprender cómo las personas interactúan con el contenido, qué conversaciones nacen y qué valor se genera en cada publicación. Al observar métricas como el tiempo de visualización, la cantidad de respuestas o los contenidos compartidos, es posible identificar lo que realmente resuena y fortalece el vínculo con la comunidad. Lo más valioso no siempre está en la cantidad, sino en la calidad de las interacciones: cuando una publicación despierta diálogo, moviliza o deja huella, su impacto se multiplica. Medir la participación, entonces, es aprender en tiempo real, adaptarse con empatía y construir relaciones genuinas en el mundo digital, de acuerdo con:
       .col-10.col-lg-4
         figure
           img(data-aos="fade-up")(src='@/assets/curso/temas/tema5/4.png', alt='imagen decorativa')
@@ -101,19 +101,19 @@
       .col-xl-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-conservas")
           div(titulo="Cantidad de comentarios, reacciones y compartidos")
-            p Indica el nivel de participación del público.
+            p.ms-5.ps-2 Indica el nivel de participación del público.
 
           div(titulo="Tiempo de respuesta")
-            p Mide la rapidez con la que se gestiona la interacción con los usuarios.
+            p.ms-5.ps-2 Mide la rapidez con la que se gestiona la interacción con los usuarios.
 
           div(titulo="Tasa de <em>engagement</em>")
-            p Relación entre el número de interacciones y el total de seguidores o alcance de la publicación.
+            p.ms-5.ps-2 Relación entre el número de interacciones y el total de seguidores o alcance de la publicación.
 
           div(titulo="Menciones y conversaciones")
-            p Cantidad de veces que una marca o usuario es mencionado en redes.
+            p.ms-5.ps-2 Cantidad de veces que una marca o usuario es mencionado en redes.
 
           div(titulo="Análisis de sentimiento")
-            p Evaluación de si las interacciones son positivas, negativas o neutrales.
+            p.ms-5.ps-2 Evaluación de si las interacciones son positivas, negativas o neutrales.
 
 
 </template>

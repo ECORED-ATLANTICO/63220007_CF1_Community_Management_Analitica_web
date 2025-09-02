@@ -67,7 +67,7 @@
       .col-12
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 5.
-          span Aspectos claves de la privacidad de datos en redes sociales.
+          span Aspectos claves de la privacidad de datos en redes sociales
         img.d-md-none(data-aos="fade-up")(src="@/assets/curso/temas/tema6/6-mobile.png", alt="La figura muestra cuatro aspectos claves de privacidad de datos en redes sociales.")
         img.d-none.d-md-block.mb-3(data-aos="fade-up")(src="@/assets/curso/temas/tema6/6.png", alt="La figura muestra cuatro aspectos claves de privacidad de datos en redes sociales.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
@@ -82,7 +82,7 @@
     .row.justify-content-center.align-items-center
       .col-10.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema6/7.png', alt='imagen decorativa')
+          img.mb-4.mb-lg-0(data-aos="fade-down")(src='@/assets/curso/temas/tema6/7.png', alt='imagen decorativa')
       .col-lg-8
         LineaTiempoD.color-secundario.custom-timeline
           .row(numero="1" titulo="Transparencia")

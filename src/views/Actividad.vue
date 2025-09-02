@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Redes sociales en marketing digital',
+      tema: 'Redes sociales en <em>marketing</em> digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar los elementos que confluyen en las redes sociales respecto al marketing digital.',
+        '<b> Objetivo:</b> Identificar los elementos que confluyen en las redes sociales respecto al <em>marketing</em> digital.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -234,7 +234,7 @@ export default {
         {
           id: 10,
           texto:
-            'LinkedIn es la red profesional por excelencia, ideal para networking, reclutamiento y generación de contenido corporativo.',
+            'LinkedIn es la red profesional por excelencia, ideal para <em>networking</em>, reclutamiento y generación de contenido corporativo.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

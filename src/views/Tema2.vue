@@ -22,7 +22,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-lg-8
         .cajon.color-terciario.p-4.mb-4.mb-lg-0(data-aos="fade-left")
-          p.mb-0 Para que un plan de redes sociales sea efectivo, debe incluir varios elementos clave. Su estructura puede variar según la experiencia y enfoque de cada persona, pero hay ciertos componentes que suelen ser fundamentales. A continuación, presentamos los más comunes, tales como los objetivos, por medio de los cuales se define qué se busca lograr, ya sea aumentar la visibilidad, generar engagement o impulsar ventas, la audiencia para identificar el público objetivo y sus intereses para adaptar la estrategia, las plataformas, para elegir las redes más adecuadas según el tipo de negocio y audiencia, el contenido para planificar qué tipo de publicaciones se realizarán y con qué frecuencia y las métricas y análisis, para evaluar el rendimiento mediante herramientas de medición con el fin de hacer ajustes estratégicos en la medida que se requieran.
+          p.mb-0 Para que un plan de redes sociales sea efectivo, debe incluir varios elementos clave. Su estructura puede variar según la experiencia y enfoque de cada persona, pero hay ciertos componentes que suelen ser fundamentales. A continuación, presentamos los más comunes, tales como los objetivos, por medio de los cuales se define qué se busca lograr, ya sea aumentar la visibilidad, generar <em>engagement</em> o impulsar ventas, la audiencia para identificar el público objetivo y sus intereses para adaptar la estrategia, las plataformas, para elegir las redes más adecuadas según el tipo de negocio y audiencia, el contenido para planificar qué tipo de publicaciones se realizarán y con qué frecuencia y las métricas y análisis, para evaluar el rendimiento mediante herramientas de medición con el fin de hacer ajustes estratégicos en la medida que se requieran.
       .col-10.col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/2.png', alt='imagen decorativa')
@@ -30,7 +30,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-12.col-lg-6
         .titulo-sexto.color-adicional.mb-4
-          h5 Figura 3.
+          h5 Figura 2.
           span Acciones de adaptabilidad
         img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/3.png", alt="Escuchar a las audiencias. Analizar comentarios y métricas para mejorar. Diversificar formatos. Explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente. Seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas. Cada red social tiene su propio estilo y formato ideal.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
@@ -39,7 +39,7 @@
     #t_2_2(data-aos='zoom-in-right').titulo-segundo.color-secundario.z-2
       h3 2.2. Características
 
-    p.mb-4.mb-lg-5 Un plan de redes sociales efectivo debe reunir características que garanticen su eficiencia, adaptabilidad y alineación con los objetivos de marketing. A continuación, se presentan los elementos clave que deben considerarse en su formulación para lograr una gestión digital estratégica y coherente:
+    p.mb-4.mb-lg-5 Un plan de redes sociales efectivo debe reunir características que garanticen su eficiencia, adaptabilidad y alineación con los objetivos de <em>marketing</em>. A continuación, se presentan los elementos clave que deben considerarse en su formulación para lograr una gestión digital estratégica y coherente:
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-8.col-lg-3
@@ -79,7 +79,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-9.mb-4.mb-lg-0
                 h5.mb-4 1. Análisis inicial
-                p La automatización facilita la publicación de contenidos en momentos clave, maximizando el alcance.Investigación del mercado y diagnóstico de la situación actual en redes.
+                p Investigación del mercado y diagnóstico de la situación actual en redes.
               .col-4.col-lg-2
                 figure
                   img.w-72(data-aos="fade-up")(src='@/assets/curso/temas/tema2/6.png', alt='imagen decorativa')
