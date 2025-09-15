@@ -7,7 +7,7 @@
     .row.justify-content-center
       .mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo entorno digital del community management desarrolla una visión integral del papel del community manager en el entorno digital actual. Abarca contenidos fundamentales como el ecosistema digital, la elaboración del plan de redes sociales y la planificación estratégica de contenidos. Además, ofrece herramientas prácticas para la gestión efectiva de plataformas, el uso responsable de la automatización y la aplicación ética de la inteligencia artificial en la interacción con las comunidades en línea. El componente también enfatiza la importancia de generar experiencias significativas mediante publicaciones relevantes, el diálogo continuo con los usuarios y el análisis de métricas para mejorar la toma de decisiones. Finalmente, se subraya el valor de la confidencialidad y la adecuada gestión de los datos personales como elementos clave para fortalecer la confianza digital.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

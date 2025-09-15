@@ -20,7 +20,7 @@ export default {
       tema: 'Redes sociales en <em>marketing</em> digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar los elementos que confluyen en las redes sociales respecto al <em>marketing</em> digital.',
+        '<b> Objetivo:</b> identificar los elementos que confluyen en las redes sociales respecto al <em>marketing</em> digital.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -211,7 +211,7 @@ export default {
         },
         {
           id: 9,
-          texto: 'Facebook, es una plataforma de microblogging.',
+          texto: 'Facebook, es una plataforma de  <em>microblogging.</em>',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

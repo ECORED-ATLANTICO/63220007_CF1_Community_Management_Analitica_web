@@ -116,7 +116,7 @@
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 4.
           span Claves para la viralidad
-        img.mb-2(data-aos="fade-up")(src="@/assets/curso/temas/tema3/12.png", alt="Escuchar a las audiencias. Analizar comentarios y métricas para mejorar. Diversificar formatos. Explorar nuevos tipos de contenido como reels, podcasts o carruseles. Actualización permanente. Seguir tendencias y cambios en el comportamiento digital. Optimizar plataformas. Cada red social tiene su propio estilo y formato ideal.")
+        img.mb-2(data-aos="fade-up")(src="@/assets/curso/temas/tema3/12.png", alt="La figura muestra los elementos clave que contribuyen a lograr la viralidad de un contenido. Emoción y conexión. Relevancia. Facilidad de consumo. Compartabilidad.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
     Separador
 

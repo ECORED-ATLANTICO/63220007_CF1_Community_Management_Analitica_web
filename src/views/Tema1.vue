@@ -57,8 +57,8 @@
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 1.
           span Línea de tiempo de las redes sociales
-        img.d-md-none(data-aos="fade-up")(src="@/assets/curso/temas/tema1/5-mobile.png", alt="En la figura se muestra una línea de tiempo de once momentos de las redes sociales desde 1996 hasta 2016.")
-        img.d-none.d-md-block.mb-1(data-aos="fade-up")(src="@/assets/curso/temas/tema1/5.png", alt="En la figura se muestra una línea de tiempo de once momentos de las redes sociales desde 1996 hasta 2016.")
+        img.d-md-none(data-aos="fade-up")(src="@/assets/curso/temas/tema1/5-mobile.png", alt="En la figura se muestra una línea de tiempo de once momentos de las redes sociales desde 1996 hasta 2016. 1996 - ICQ: primer servicio de mensajería instantánea ampliamente utilizado en Internet. 1997 - SixDegrees: considerada la primera red social moderna, basada en la teoría de los seis grados de separación. 2002 - Friendster: popularizó la idea de conectar amigos en línea. 2003 - MySpace: dominó el mundo digital antes de la llegada de Facebook. 2004 - Facebook: revolucionó la forma en que las personas interactúan en línea. 2005 - YouTube: introdujo el concepto de compartir videos de manera masiva. 2006 - Twitter: popularizó los mensajes cortos y la comunicación en tiempo real. 2009 - WhatsApp: transformó la mensajería instantánea en dispositivos móviles. 2010 - Instagram: enfocada en la fotografía y el contenido visual. 2011 - Snapchat: introdujo el concepto de contenido efímero. 2018 - TikTok: se convirtió en una de las plataformas más influyentes para videos cortos.")
+        img.d-none.d-md-block.mb-1(data-aos="fade-up")(src="@/assets/curso/temas/tema1/5.png", alt="En la figura se muestra una línea de tiempo de once momentos de las redes sociales desde 1996 hasta 2016. 1996 - ICQ: primer servicio de mensajería instantánea ampliamente utilizado en Internet. 1997 - SixDegrees: considerada la primera red social moderna, basada en la teoría de los seis grados de separación. 2002 - Friendster: popularizó la idea de conectar amigos en línea. 2003 - MySpace: dominó el mundo digital antes de la llegada de Facebook. 2004 - Facebook: revolucionó la forma en que las personas interactúan en línea. 2005 - YouTube: introdujo el concepto de compartir videos de manera masiva. 2006 - Twitter: popularizó los mensajes cortos y la comunicación en tiempo real. 2009 - WhatsApp: transformó la mensajería instantánea en dispositivos móviles. 2010 - Instagram: enfocada en la fotografía y el contenido visual. 2011 - Snapchat: introdujo el concepto de contenido efímero. 2018 - TikTok: se convirtió en una de las plataformas más influyentes para videos cortos.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .fullwidth-bg.fullwidth-bg--1
@@ -150,7 +150,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 X (Twitter)
-            p Plataforma de microblogging que destaca por su inmediatez y capacidad de generar conversaciones en tiempo real. Es utilizada para noticias, tendencias y comunicación directa entre marcas y usuarios.
+            p Plataforma de <em>microblogging</em> que destaca por su inmediatez y capacidad de generar conversaciones en tiempo real. Es utilizada para noticias, tendencias y comunicación directa entre marcas y usuarios.
           .col-10.col-sm-8.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/14.png', alt='imagen decorativa')

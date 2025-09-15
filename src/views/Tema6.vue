@@ -68,8 +68,8 @@
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 5.
           span Aspectos claves de la privacidad de datos en redes sociales
-        img.d-md-none(data-aos="fade-up")(src="@/assets/curso/temas/tema6/6-mobile.png", alt="La figura muestra cuatro aspectos claves de privacidad de datos en redes sociales.")
-        img.d-none.d-md-block.mb-3(data-aos="fade-up")(src="@/assets/curso/temas/tema6/6.png", alt="La figura muestra cuatro aspectos claves de privacidad de datos en redes sociales.")
+        img.d-md-none(data-aos="fade-up")(src="@/assets/curso/temas/tema6/6-mobile.png", alt="La figura muestra cuatro aspectos claves de privacidad de datos en redes sociales.Consentimiento explícito: las plataformas deben obtener autorización clara para el uso de datos personales. Configuraciones de privacidad: los usuarios deben tener control sobre quién accede a su información. Cifrado de datos: la seguridad en la transmisión de información es esencial para evitar filtraciones. Uso de algoritmos de IA: la recopilación de datos debe ser transparente y ética.")
+        img.d-none.d-md-block.mb-3(data-aos="fade-up")(src="@/assets/curso/temas/tema6/6.png", alt="La figura muestra cuatro aspectos claves de privacidad de datos en redes sociales.Consentimiento explícito: las plataformas deben obtener autorización clara para el uso de datos personales. Configuraciones de privacidad: los usuarios deben tener control sobre quién accede a su información. Cifrado de datos: la seguridad en la transmisión de información es esencial para evitar filtraciones. Uso de algoritmos de IA: la recopilación de datos debe ser transparente y ética.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
