@@ -32,7 +32,7 @@
         .titulo-sexto.color-adicional.mb-4
           h5 Figura 2.
           span Acciones de adaptabilidad
-        img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/3.png", alt="En la figura se muestran los elementos que componen un plan de redes sociales.. Plan de redes sociales. Objetivos. Audiencia. Plataformas. Contenido. Métricas y análisis")
+        img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/3.svg", alt="En la figura se muestran los elementos que componen un plan de redes sociales.. Plan de redes sociales. Objetivos. Audiencia. Plataformas. Contenido. Métricas y análisis")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
