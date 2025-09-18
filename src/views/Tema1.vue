@@ -100,7 +100,7 @@
               img(src="@/assets/curso/temas/tema1/9.png", alt="Imagen decorativa")
           .crd_hover_txt--body.text-center
             h5.mb-3 Segmentación
-            p.mb-0 Permiten la comunicación bidireccional entre usuarios y marcas, facilitando la participación y el intercambio de información.
+            p.mb-0 Ofrecen herramientas para dirigir mensajes a públicos específicos según intereses, ubicación, edad y otros factores demográficos. 
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-lg-1.d-none.d-xl-block
@@ -187,6 +187,7 @@
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/18.png', alt='imagen decorativa')
 
+    p.mb-4.mb-lg-5 En términos generales, las principales plataformas se pueden clasificar, por su alcance y especialización, en dos tipos: 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-10.col-sm-6.col-lg-4
         figure

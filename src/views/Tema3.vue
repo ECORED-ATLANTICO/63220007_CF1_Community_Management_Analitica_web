@@ -203,7 +203,7 @@
               li Cumplir regulaciones como el GDPR (Reglamento General de Protección de Datos).
               li Evitar respuestas genéricas o despersonalizadas.
               li Ser transparente sobre el uso de <em>bots</em> o IA.
-            p <strong>Ejemplo:</strong> Coca-Cola evalúa en tiempo real sus campañas automatizadas y ajusta su enfoque para maximizar el <em>engagement</em>.
+            p <strong>Ejemplo:</strong> Microsoft aplica políticas de transparencia en la automatización de respuestas, manteniendo la confianza del usuario. 
           .col-10.col-lg-4
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/19.png', alt='imagen decorativa')

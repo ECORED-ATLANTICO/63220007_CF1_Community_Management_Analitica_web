@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> identificar los elementos que confluyen en las redes sociales respecto al <em>marketing</em> digital.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,

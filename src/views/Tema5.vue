@@ -37,7 +37,7 @@
 
     .row.justify-content-center.align-items-center.z-2.bg-color-secundario-s5.p-3.p-xl-1.rounded-4
       .col-xl-9
-        p.mb-0 Para potenciar la participación de los usuarios, es importante aplicar ciertos principios, como la autenticidad la cual conlleva a responder de manera cercana y personalizada, evitando respuestas automáticas o genéricas, la rapidez y constancia para mantener una comunicación fluida y responder a los usuarios en tiempo oportuno, el incentivo a la conversación al hacer preguntas, crear encuestas y generar debates sobre temas relevantes, el por medio de publicaciones que inviten a la acción, como concursos, desafíos o dinámicas interactivas, y la empatía y escucha activa para lograr entender las inquietudes de los usuarios y responder de manera que fortalezca la conexión emocional.
+        p.mb-0 Para potenciar la participación de los usuarios, es importante aplicar ciertos principios, como la autenticidad la cual conlleva a responder de manera cercana y personalizada, evitando respuestas automáticas o genéricas, la rapidez y constancia para mantener una comunicación fluida y responder a los usuarios en tiempo oportuno, el incentivo a la conversación al hacer preguntas, crear encuestas y generar debates sobre temas relevantes, por medio de publicaciones que inviten a la acción, como concursos, desafíos o dinámicas interactivas, y la empatía y escucha activa para lograr entender las inquietudes de los usuarios y responder de manera que fortalezca la conexión emocional.
       .col-xl-3.d-none.d-xl-block
         img(src="@/assets/curso/temas/tema5/2.png", alt="Imagen decorativa")
 

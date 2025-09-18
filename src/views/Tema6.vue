@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Confidencialidad de la Información
+      h1 Confidencialidad de la información
 
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema6/1.png", alt="Imagen decorativa")
 

@@ -75,7 +75,7 @@
           SlyderA(tipo="b")
             div.px-5.py-3
               h5 Relevancia
-              p Contenido alineado con intereses y necesidades de la audiencia. Uso de calendario de contenido.
+              p Contenido alineado con intereses y necesidades de la audiencia. Uso del calendario de contenido.
             div.px-5.py-3
               h5 Diversificación de formatos
               p Alternar entre imágenes, videos, textos, encuestas, <em>lives</em>, entre otros.

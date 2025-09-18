@@ -373,7 +373,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Yezid Arturo Choperena Guerrero',
+          nombre: 'Nicolas Cruz Ríos',
           cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
