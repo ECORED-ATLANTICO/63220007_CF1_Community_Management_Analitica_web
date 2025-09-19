@@ -230,7 +230,7 @@ export default {
     {
       tema: 'Redes sociales',
       referencia:
-        'Bernal, I., Barboza, A. M., & Flores, A. J. (2023). <em>Las redes Sociales como estrategia de marketing digital: Un análisis bibliométrico. Vinculatégica EFAN, 9</em>(6), 16-30. https://doi.org/10.29105/vtga9.6-437',
+        'Bernal, I., Barboza, A. M., & Flores, A. J. (2023). <em>Las redes Sociales como estrategia de marketing digital: Un análisis bibliométrico. Vinculatégica EFAN, 9</em>(6), 16-30.',
       tipo: 'Artículo',
       link: 'https://doi.org/10.29105/vtga9.6-437',
     },
@@ -398,7 +398,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nelson Ivan Vera Briceño',
+          nombre: 'Alexander Rafael Acosta Bedoya',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
